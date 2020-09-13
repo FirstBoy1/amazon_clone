@@ -1,0 +1,15 @@
+// css
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.2));
+ // for images to provide gradient
+
+  z-index: -1;
+  margin-bottom: -200px;
+  // to let things underneath to move up 
+
+ // html
+  <small>$</small>
+  <strong>{price}</strong>
+
+
+// npm package
+  react-currencey-format - to format the price
